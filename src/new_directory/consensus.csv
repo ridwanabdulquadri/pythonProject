@@ -1,0 +1,4 @@
+name,isSingle,cohort,status
+Timmy,False,15,COMPLICATED
+Rid,True,15,UNKNOWN
+Ned,True,15,UNDISCLOSED
